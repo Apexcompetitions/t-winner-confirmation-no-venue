@@ -1,1 +1,1 @@
-# bb-banquet-purchase-confirmation-email
+# t-winner-confirmation-no-venue
